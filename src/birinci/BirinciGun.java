@@ -6,6 +6,6 @@ public static void main(String[] args) {
 	System.out.println("ikinci Commit");
 	System.out.println("10:12 ikinci Commit");
 	System.out.println("10:26 ikinci gun");
-	
+	System.out.println("10:35 ikinci gun");
 }
 }
